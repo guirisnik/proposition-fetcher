@@ -1,0 +1,25 @@
+{
+  "name": "proposition-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risniking/proposition-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/risniking/proposition-fetcher/issues"
+  },
+  "homepage": "https://github.com/risniking/proposition-fetcher#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "geckodriver": "^1.19.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
