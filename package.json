@@ -20,6 +20,6 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "geckodriver": "^1.19.1",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.8.2"
   }
 }
